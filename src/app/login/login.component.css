@@ -1,0 +1,33 @@
+#loginForm{
+    margin : 10px;
+}
+
+#loginHeader{
+    background-color: #007e6e;
+    text-align:center;
+    color:white;
+    height: 70px
+}
+
+.loginForm{
+    width:500px;
+    margin:auto;
+    margin-top:100px;
+}
+
+.logButton{
+    color:white;
+    background-color: #007e6e;
+}
+
+.avatar{
+/*margin-left:225px*/
+width:150px;
+position:relative;
+left:150px
+}
+
+.logInput{
+    margin-bottom:50px
+}
+

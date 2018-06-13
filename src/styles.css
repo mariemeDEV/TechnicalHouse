@@ -1,1 +1,132 @@
-/* You can add global styles to this file, and also import other style files */
+.body{
+    font-family: 'Times New Roman';
+}
+.dataContent{
+    margin-top:15px
+}
+
+.operations{
+    text-align:left;
+}
+.operations li:hover { 
+    background-color:#41c2b1; 
+}
+operations li{
+    margin-left:15px;
+    height:5px;
+}
+.operation{
+    margin-left:10px;
+    display:inline-block;
+}
+.head{
+    background-color:#007e6e;
+    color:white;
+}
+#op{
+    text-align:center;
+}
+.userImg{
+    border:2px solid #007e6e;
+}
+.top{
+    margin-top:10px;
+    height:130px
+
+}
+.libelle{
+    color:#007e6e;
+    text-decoration:underline;
+}
+.role{
+    margin-top:2px;
+    color:#007e6e;
+    font-size:10px;
+}
+
+.pagination li a{
+    background-color: lightcyan;
+    color:#007e6e;
+}
+
+.value{
+    display:inline-block;
+    margin-top:2px;
+    font-size:10px;
+}
+.separateur{
+    margin-top:2px;
+    font-size:10px;
+
+}
+
+.search{
+    width:350px;
+    position: relative;
+    top:55px;
+    right:10px
+}
+.searchButton{
+    background-color:#007e6e;
+    color:white;
+    border-radius:2;
+    width:30px
+}
+
+.menuHeader{
+    text-align: center;
+   /* color:white;*/
+   /* background-color:#007e6e;*/
+    border-left:2px solid #007e6e;
+}
+.menuIcon{
+    font-size:20px;
+    color:#007e6e
+}
+.data{
+    border-left:2px solid #007e6e;
+    border-bottom : 2px solid #007e6e
+}
+
+.menu{
+}
+
+.f1{
+    margin-right:15px;
+    font-size:20px;
+    color:green
+}
+.f2{
+    margin-right:15px;
+    font-size:20px;
+    color:orange
+}
+.f3{
+    margin-right:15px;
+    font-size:20px;
+    color:red
+}
+.f4{
+    font-size:20px;
+    color:#007e6e;
+    margin-right:15px;
+}
+.f5{
+    font-size:20px;
+    color:green;
+    margin-right:15px;
+}
+/*.nombre{
+    display:inline-block;
+    color : #007e6e;
+    margin-left:20px
+}*/
+
+.menuBody{
+    border-left:2px solid #007e6e;
+}
+
+.op_icons{
+    padding:10px;
+    text-align:center;
+}

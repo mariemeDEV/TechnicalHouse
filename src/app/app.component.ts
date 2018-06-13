@@ -7,4 +7,23 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  logPage : boolean = true;
+  admin   : boolean = false;
+
+
+  showElements(){
+    alert("ok");
+  }
+
+  fonctionality(){
+    alert("operation n");
+  }
+
+
+  redirectTo(){
+    this.admin=true;
+  }
+
 }
+
+
